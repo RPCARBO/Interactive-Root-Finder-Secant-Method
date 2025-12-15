@@ -30,6 +30,8 @@ Install dependencies:
 
 pip install streamlit sympy numpy pandas matplotlib
 
-Run the app:
+Run the app locally:
 
 streamlit run secant_app.py
+
+[Or click the link to our deployed application](https://interactive-root-finder-secant-method.streamlit.app/)
